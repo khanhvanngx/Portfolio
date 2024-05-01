@@ -6,7 +6,7 @@ This repository contains a collection of projects showcasing my work in data ana
 
 This SQL script sets up the AdventureWorksDW2019 database, a sample database used for analysis and learning purposes. The database contains fact and dimension tables that store data about products, sales, customers, and employees of the company.
 
-### 2. citilink Project with SQL
+### 2. Citilink Project with SQL
 
 This SQL scripts is writen based on Citilink dataset, a dataset about a system for providing efficient and safe public bus transport. This script extracts some information for a data-driven approach to analyze mobility patterns and improve transport services.
 
@@ -14,7 +14,9 @@ This SQL scripts is writen based on Citilink dataset, a dataset about a system f
 
 This project showcasing a dashboard analyzing consumer preferences in the airlines industry in the United States between 2018 and 2020. The dashboard created through Microsoft Power BI.
 
-### 4. 
+### 4. Supermarket X Report Project with Python
+
+The project is implemented using Supermarket X's sales data collection. Python modules like pandas, numpy, plotly, matplotlib, seaborn, and scikit-learn are combined in the project to analyze data and provide visual graphs for data EDA and model.
 
 ## Note
 
